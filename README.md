@@ -1,3 +1,4 @@
 # askfrom_pdf
 
-RAG chatbot
+RAG chatbot using python, FastAPI, LangChain
+ 
